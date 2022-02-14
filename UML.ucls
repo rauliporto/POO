@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="pt.iscte.dcti.poo.sokoban.starter.AbstractSObject" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/AbstractSObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="482" x="601" y="420"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="pt.iscte.dcti.poo.sokoban.starter.ActivateObject" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/ActivateObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="473" x="786" y="955"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="pt.iscte.dcti.poo.sokoban.starter.ActiveObject" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/ActiveObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="249" x="1150" y="1557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Alvo" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Alvo.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="145" x="416" y="955"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Bateria" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Bateria.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="145" x="786" y="1557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Buraco" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Buraco.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="249" x="497" y="1184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Caixote" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Caixote.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="145" x="42" y="1557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Chao" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Chao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="145" x="601" y="955"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Empilhadora" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Empilhadora.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="289" x="1190" y="1184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="pt.iscte.dcti.poo.sokoban.starter.DisappeareObject" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/DisappeareObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="343" x="786" y="1184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Main" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="145" x="217" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="pt.iscte.dcti.poo.sokoban.starter.PushableObject" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/PushableObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="309" x="148" y="1184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Parede" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Parede.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="145" x="42" y="955"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="pt.iscte.dcti.poo.sokoban.starter.PedraGrande" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/PedraGrande.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="145" x="412" y="1557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="pt.iscte.dcti.poo.sokoban.starter.PedraPequena" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/PedraPequena.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="145" x="227" y="1557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Scoreboard" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/Scoreboard.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="145" x="578" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="pt.iscte.dcti.poo.sokoban.starter.SokobanGame" 
+    project="Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902" 
+    file="/Sokoban2020_V1_1_RaulRodrigues90287_DavidHuber97902/src/pt/iscte/dcti/poo/sokoban/starter/SokobanGame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="234" x="940" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="21">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="22" name="INSTANCE">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="23" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="24">    
+    <bendpoint x="1159" y="1184"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="27">    
+    <bendpoint x="1289" y="420"/>    
+    <bendpoint x="1289" y="955"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="28" name="player">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="29" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="31">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="32" name="objects">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="33" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="35">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="36" name="objectives">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="43">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
